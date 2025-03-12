@@ -1,0 +1,16 @@
+WAP to create following csv file.
+
+	Customers
+		-Customerid
+		-Customername
+		-Amount
+		-Gender
+		-Year
+	Store at least ten customer details in csv file
+
+	1) Display Column Chart for percentage of amount gender wise
+	2) Display Pie Chart for amount Column gender wise.
+	3) Display column chart for sum of amount year wise2
+
+
+
