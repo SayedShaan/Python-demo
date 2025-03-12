@@ -1,0 +1,4 @@
+Comprehension technique
+map function 
+filter function
+lambda function 

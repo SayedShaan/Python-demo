@@ -1,0 +1,1 @@
+WAP in python to scan folder and copy all jpg files from that folder to another 
