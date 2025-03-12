@@ -1,0 +1,5 @@
+WAP in python to accept two number from user and print all arithmetic operation
+
+WAP in python to accept a number from user and print square and cube
+
+WAP in python to accept meter from user and convert into kilometers.

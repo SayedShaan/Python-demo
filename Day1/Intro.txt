@@ -1,0 +1,14 @@
+Python 
+	AL,ML,Data Exploration , Data Visualization 
+	
+Software Required?
+	
+	Python IDLE
+		https://www.python.org/
+
+	Anaconda Navigator
+		https://www.anaconda.com/products/navigator
+
+18 chapter 
+8 are Core Chapter 
+10 are for 
