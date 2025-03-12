@@ -1,0 +1,19 @@
+WAP is Python to accept following date:
+
+	Student
+		Studentid
+		Student name
+		Marks
+			-subject 1
+			-subject 2
+			-subject 3
+	Calculate percentage. if per>=35 then pass else fail
+
+WAP in python to accept percentage print grade:
+
+	Per>=75 -> Grade A
+	Per>=65 -> Grade B
+	Per>=55 -> Grade C
+	Per>=55 -> Grade D
+	Per>=45 -> Grade E
+	Per<35 -> Grade F
