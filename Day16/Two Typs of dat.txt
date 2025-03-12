@@ -1,0 +1,3 @@
+Two Type of data:
+	1) Categorical 
+	2) Continous(- infinity to + infinity)
