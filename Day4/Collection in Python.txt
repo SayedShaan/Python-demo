@@ -1,0 +1,6 @@
+Collection in Python 
+
+	1)Tuple
+	2)Set
+	3)List
+	4)Dictionary
