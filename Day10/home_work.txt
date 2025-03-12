@@ -1,0 +1,10 @@
+WAP in Python to accept 3 product form user and display in reverse order
+
+WAP in Python to create following classes:
+
+	Employee
+		Hours Variable
+		ShowWorkingHourse() Function
+		
+	PartTimeEmployee
+	FullTimeEmployee
