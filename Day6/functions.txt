@@ -1,0 +1,23 @@
+Function
+	1) Logic Sepration
+	2) Reusibility
+	3) Easy Modification 
+Shaan -> shaan
+
+50 lines 
+
+def add():
+	#100 lines
+	#addition
+
+def sub():
+	#subtraction
+
+def div():
+	#Division
+
+def mul():
+	#Multiplication
+
+add()
+add()
