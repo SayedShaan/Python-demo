@@ -1,0 +1,8 @@
+WAP in python to do the following
+
+===========Menu=============
+1)Create account	(accid,name , email,balance,mobile)
+2)Delete account
+3)Update account
+4)Deposit
+5)Withdraw 
