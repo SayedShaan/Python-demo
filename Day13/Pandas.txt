@@ -1,0 +1,15 @@
+Pandas Library
+	
+	1)It can fetch data from almost all file
+	eg	
+		CSV
+		excel
+		text Editor files
+
+	2)We can write code to do operations such as fetch data, filter data and sort
+		data.
+
+open csv file and display employees working in mumbai  branch
+1)file IO code
+2)CSV Library
+3)Pandas

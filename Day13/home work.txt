@@ -1,0 +1,24 @@
+
+WAP in python to create following csv filec
+
+student
+
+	student_id
+	first_name
+	last_name
+	subject1
+	subject2
+
+1)Display customer date 
+2)Add new coulumn full name 
+3)Add new coulumn total_marks
+4)Add new coulumn percentage 
+5)Add new coulumn Status(pass or fail)
+6)Add a grade column
+
+per>=75 ->gradeA
+per>=65 ->gradeA
+per>=55  ->gradeC
+per>=45 ->gradeD
+per>=35 ->gradeE
+per<35 -> fail    
