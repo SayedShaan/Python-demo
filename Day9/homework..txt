@@ -1,0 +1,23 @@
+WAP in python to create three list for three subjects:
+and display total marks and percentage 
+
+	eg:  	
+		sem1=[89,98,89]
+		sem2=[49,69,32]
+		sem3=[45,89,98]
+
+WAP in python to accept five values from user in list and then display negative number
+
+WAP in python to create lambda expression for following function:
+
+	1) average(a,b,c,d,e)
+	2) max(a,b)
+	3) min(a,b,c)
+	
+
+WAP in python to accept a number from user and store 1 to n in the list  using comprehension 
+
+	n=5
+	[1,2,3,4,5]
+
+WAP in pyhton to create math class and create all math related function:
