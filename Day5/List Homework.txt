@@ -1,0 +1,11 @@
+WAP in Python to accept five number in list and print largest value.
+WAP in Python to accept five number in list and print smallest value.
+WAP in Python to accept five number in list and print second smallest value.
+WAP in Python to create a list with five values and print negative values. 
+WAP in Python to create a list with five values and print even values. 
+
+
+Tuple 		=() eg.t=()
+Set 		={} eg.s=set()
+list 		=[] eg.l=[]
+dictionary 	={} eg.d={}
